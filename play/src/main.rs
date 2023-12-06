@@ -1,11 +1,13 @@
-use std::io;
+// use std::{io, cmp::Ordering};
+
+// use rand::Rng;
 fn main() {
-    println!("Hello, I am IZO! What's your name?");
-    let mut name = String::new();
+    
+}
 
-    io::stdin()
-    .read_line(&mut name)
-    .expect("Failed to get name");
+fn print_int_loop(x: [i32;4]){
+    let mut counter = 0;
+    while counter < x.len(){
 
-    println!("Welcome to Rust {name}");
+    }
 }
