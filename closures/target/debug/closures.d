@@ -1,0 +1,1 @@
+C:\Users\USER\Documents\rust\closures\target\debug\closures.exe: C:\Users\USER\Documents\rust\closures\src\main.rs C:\Users\USER\Documents\rust\closures\src\state\mod.rs C:\Users\USER\Documents\rust\closures\src\state\state.rs

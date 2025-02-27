@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\rust\testing\target\debug\deps\libhalf-bc9609e314e23ab1.rmeta: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat\convert.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch\x86.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\leading_zeros.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\slice.rs
+
+C:\Users\Admin\Documents\rust\testing\target\debug\deps\half-bc9609e314e23ab1.d: C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\lib.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat\convert.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch\x86.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\leading_zeros.rs C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\slice.rs
+
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\lib.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat\convert.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch\x86.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\leading_zeros.rs:
+C:\Users\Admin\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\slice.rs:

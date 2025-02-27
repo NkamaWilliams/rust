@@ -1,0 +1,12 @@
+C:\Users\USER\Documents\rust\testing\target\debug\deps\libhalf-95f8c2dc80cd377f.rmeta: C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat\convert.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch\x86.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\leading_zeros.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\slice.rs
+
+C:\Users\USER\Documents\rust\testing\target\debug\deps\half-95f8c2dc80cd377f.d: C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\lib.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat\convert.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch\x86.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\leading_zeros.rs C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\slice.rs
+
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\lib.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\bfloat\convert.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\binary16\arch\x86.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\leading_zeros.rs:
+C:\Users\USER\.cargo\registry\src\index.crates.io-6f17d22bba15001f\half-2.4.1\src\slice.rs:
